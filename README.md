@@ -30,4 +30,4 @@ Supports adding, listing, and deleting tasks using a clean service/repository st
 
 ```bash
 git clone https://github.com/your-username/task-tracker-cli.git
-cd task-tracker-cli
+run app
